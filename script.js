@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", async function () {
-    const username = "mico3531";
-    const repo = "math_archive";
+    const username = "mnszrn";
+    const repo = "Files";
     const folder = "docs";
     const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${folder}`;
 
